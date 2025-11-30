@@ -1,3 +1,5 @@
 chromadb
 tiktokent
 pymupdf
+numpy
+pandas
